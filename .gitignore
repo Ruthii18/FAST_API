@@ -1,0 +1,15 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+myenv/
+*.db
+
+# Node
+node_modules/
+package-lock.json
+
+# VS Code
+.vscode/
